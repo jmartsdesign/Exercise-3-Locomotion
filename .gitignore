@@ -1,5 +1,6 @@
-/.hintrc
-/antigo.html
-/index-older.html
-/locomotion.html
-/package-lock.json
+locomotion.html
+.hintrc
+antigo.html
+index-older.html
+package-lock.json
+.gitignore
