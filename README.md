@@ -1,8 +1,8 @@
 ### Exercise #3: Locomotion
 
-# A-Frame simple User Interface
+# A-Frame teloprting UI
 
-Criação de um ambiente VR interactivo, usando [A-Frame](https://aframe.io) - uma framework web para construção de experiências de realidade virtual.
+Criação de um ambiente VR interactivo com teleporting, usando [A-Frame](https://aframe.io) - uma framework web para construção de experiências de realidade virtual.
 
 ![image](image.png)
 
