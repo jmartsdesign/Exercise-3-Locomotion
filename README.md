@@ -16,6 +16,4 @@ Floating Island by sirkitree (modelo 3D) [[CC-BY](https://creativecommons.org/li
 
 #### MDM/UC - ARVI - Ambientes de Realidade Virtual Interativos 2023
 
-Disponivel no GitHub
-
-Disponivel no [Glith](https://glitch.com/~exercise-3-locomotion-main)
+Disponivel no [GitHub](https://jmartsdesign.github.io/Exercise-3-Locomotion/)  e no [Glith](https://glitch.com/~exercise-3-locomotion-main)
