@@ -5,3 +5,4 @@
     * [bug\_report](.github/ISSUE\_TEMPLATE/bug\_report.md)
   * [ISSUE\_TEMPLATE](.github/issue\_template-1/README.md)
     * [feature\_request](.github/ISSUE\_TEMPLATE/feature\_request.md)
+* [Home](home.md)
